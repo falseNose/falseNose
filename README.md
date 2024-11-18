@@ -2,6 +2,10 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/m.__.kuuuuu5444/)
 
 
+<a href="https://www.instagram.com/m.__.kuuuuu5444/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+
 
 <a href="https://www.instagram.com/m.__.kuuuuu5444/"><img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=simpleicons_instagram&logoColor=white&link=https://www.instagram.com/m.__.kuuuuu5444/"/></a>&nbsp
 
