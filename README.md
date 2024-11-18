@@ -1,7 +1,12 @@
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/m.__.kuuuuu5444/)
+<div align="left" style="width: 25%; margin-left: 25%;">
+    <a href="https://www.instagram.com/m.__.kuuuuu5444/">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+</div>
+
 
 
 
