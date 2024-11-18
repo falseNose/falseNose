@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: flex-start;">
+    <a href="https://www.instagram.com/m.__.kuuuuu5444/">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" style="margin-left: 25%;"/>
+    </a>
+</div>
 
 
 
